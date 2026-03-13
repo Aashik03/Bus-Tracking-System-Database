@@ -13,6 +13,7 @@ The project demonstrates core **DBMS concepts** such as relational schema design
 - **Role-based access control** using PostgreSQL roles and privileges
 - SQL queries using **JOINs, filtering, and aggregation**
 - Normalized database structure to ensure data consistency
+- Data backup using triggers
 
 ---
 
@@ -29,6 +30,7 @@ The project demonstrates core **DBMS concepts** such as relational schema design
 - Data filtering and grouping (**WHERE, GROUP BY**)
 - User roles and privileges in PostgreSQL
 - Basic database normalization
+- Triggers:insert,update,delete
 
 ---
 
